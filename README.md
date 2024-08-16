@@ -10,5 +10,5 @@
   <li>License</li>
 </ul>
 <h1>Demo</h1>
-<img src=""C:\Users\sayan\Pictures\Screenshots\amazon-clone-output.png"" alt="Error loading image">
+<img src="C:\Users\sayan\Pictures\Screenshots\amazon-clone-output.png" alt="Error loading image">
 
