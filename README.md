@@ -20,3 +20,5 @@
   <li>Shopping cart functionality</li>
   <li>User authentication (if implemented)</li>
 </ul>
+<h1>Installation</h1>
+<p>Clone this repository: git clone </p>
