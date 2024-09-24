@@ -10,7 +10,7 @@
   <li>License</li>
 </ul>
 <h1>Demo</h1>
-<img src="https://media.licdn.com/dms/image/v2/D5622AQEGdrkb2TfbKA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1723653787384?e=1726704000&v=beta&t=IWZ74QHQPx8NafRUm6NAF66Zw82fK0ZhbkGn8glS3o0" alt="Error loading image">
+<img src="https://media.licdn.com/dms/image/v2/D5622AQFC8ugDIdJd2Q/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727192161297?e=1730332800&v=beta&t=9sQUCIeOL-pSLUdtHP5Vy0tA0HmGC-XSdMVLMXo3tgc" alt="Error loading image">
 
 <h1>Features</h1>
 
